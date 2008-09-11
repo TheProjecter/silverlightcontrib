@@ -106,7 +106,6 @@ namespace SilverlightContrib.Controls
 
             return new HSV(h, s, max);
 
-
         }
     }
 }
